@@ -318,7 +318,7 @@ a {
 
   .footer__social,
   .popular-foods__filters {
-    display: none;
+    display: none !important;
   }
 }
 /* END: trending media queries */
