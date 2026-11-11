@@ -315,5 +315,10 @@ a {
   .trending__content {
     padding: 32px;
   }
+
+  .footer__social,
+  .popular-foods__filters {
+    display: none;
+  }
 }
 /* END: trending media queries */
