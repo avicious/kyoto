@@ -316,9 +316,8 @@ a {
     padding: 32px;
   }
 
-  .footer__social,
   .popular-foods__filters {
-    display: none !important;
+    display: none;
   }
 }
 /* END: trending media queries */
